@@ -1,0 +1,7 @@
+setup.py
+The_parser.egg-info/PKG-INFO
+The_parser.egg-info/SOURCES.txt
+The_parser.egg-info/dependency_links.txt
+The_parser.egg-info/top_level.txt
+the_parser/__init__.py
+the_parser/__main__.py
