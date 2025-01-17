@@ -7,3 +7,6 @@ build
 setup.py
 
 __pycache__
+
+_env.py
+_ext.py
