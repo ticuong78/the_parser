@@ -15,7 +15,7 @@ class EnvParser(Parser):
             ---------
             ``available_envs``: list of strings that contains many environmental variables that are currently supported or are meaningful to your program.
             
-            ``available_exts``: list of strings indicates many extensions supported by your program. As this project is specifically built for the Analyse Malware using FFT project (mentioned in README.md of https://github.com/ticuong78/Analyse-Malware-using-FFT) so it may make no sense in your project.
+            ``available_exts``: list of strings indicates many extensions supported by your program. As this project is specifically built for the Analyse Malware using FFT project (mentioned in README.md of https://github.com/ticuong78/the_parser) so it may make no sense in your project.
             
             Returns:
             ---------
