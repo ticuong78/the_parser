@@ -1,9 +1,0 @@
-Metadata-Version: 2.2
-Name: The-parser
-Version: 0.0.0
-Summary: Parse env for local uses
-Author: Cường Lê
-Author-email: cuongdayne17@gmail.com
-Dynamic: author
-Dynamic: author-email
-Dynamic: summary
