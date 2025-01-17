@@ -5,3 +5,5 @@ venv
 dist
 build
 setup.py
+
+__pycache__
